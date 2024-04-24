@@ -1,0 +1,2 @@
+# item_modifier-copy_custom_data
+item_modifierの1項目であるcopy_custom_dataのサンプルになります。
