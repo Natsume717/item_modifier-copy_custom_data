@@ -1,8 +1,7 @@
 # item_modifier-copy_custom_data
 item_modifierの1項目であるcopy_custom_dataのサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】copy_custom_dataでデータをコピー【item_modifier】](https://natsumake.com/item_modifier-copy_custom_data/)』を参考にしてください。
 
 <h3>概要</h3>
 custom_dataをブロック、エンティティ、storageなどからコピーします。
